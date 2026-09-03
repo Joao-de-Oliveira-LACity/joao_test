@@ -1,2 +1,7 @@
 # joao_test
 test repo for git / github lesson
+
+## Purpose
+
+- Create a remote repository on GitHub
+- Practice git workflow
